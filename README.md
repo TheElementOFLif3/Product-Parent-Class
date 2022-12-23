@@ -1,4 +1,4 @@
-# 2.-PesonParentClass
+# 2.PructParentClass
 Creating classes and objects
 
 Assignment
