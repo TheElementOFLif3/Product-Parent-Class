@@ -1,4 +1,4 @@
-# 2.PructParentClass
+# PructParentClass
 Creating classes and objects
 
 Assignment
